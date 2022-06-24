@@ -1,6 +1,9 @@
 # Import a Spline scene directly from [spline.design](https://spline.design/).
 
 Spline makes it easy to create a scene with all kinds of 3d elements. There are various option for exporting the scene. Basically what you need to do is select Code and then Three.js. 
+![Screenshot 2022-06-24 at 06 40 49](https://user-images.githubusercontent.com/15939539/175463818-d7a462cc-c57e-4b87-bb8a-2709157f438c.png)
+
+
 The most important part of the code is this part:
 ```
 const loader = new SplineLoader();
